@@ -1,0 +1,6 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\RestaurantDiscount\obj\Debug\RestaurantDiscount.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\RestaurantDiscount\bin\Debug\RestaurantDiscount.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\RestaurantDiscount\bin\Debug\RestaurantDiscount.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\RestaurantDiscount\obj\Debug\RestaurantDiscount.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\RestaurantDiscount\obj\Debug\RestaurantDiscount.pdb

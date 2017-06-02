@@ -1,0 +1,5 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\SumOfOddNumbers\bin\Debug\SumOfOddNumbers.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\SumOfOddNumbers\obj\Debug\SumOfOddNumbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\BackIn30Minutes\bin\Debug\BackIn30Minutes.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\BackIn30Minutes\bin\Debug\BackIn30Minutes.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\BackIn30Minutes\obj\Debug\BackIn30Minutes.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\BackIn30Minutes\obj\Debug\BackIn30Minutes.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\BackIn30Minutes\obj\Debug\BackIn30Minutes.pdb

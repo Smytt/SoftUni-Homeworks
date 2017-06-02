@@ -1,0 +1,6 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\BPMCounter\bin\Debug\BPMCounter.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\BPMCounter\bin\Debug\BPMCounter.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\BPMCounter\bin\Debug\BPMCounter.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\BPMCounter\obj\Debug\BPMCounter.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\BPMCounter\obj\Debug\BPMCounter.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\BPMCounter\obj\Debug\BPMCounter.pdb

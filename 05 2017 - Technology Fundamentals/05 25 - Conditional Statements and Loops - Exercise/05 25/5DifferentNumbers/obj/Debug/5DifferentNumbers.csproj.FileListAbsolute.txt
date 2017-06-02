@@ -1,0 +1,5 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\5DifferentNumbers\bin\Debug\5DifferentNumbers.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\5DifferentNumbers\bin\Debug\5DifferentNumbers.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\5DifferentNumbers\obj\Debug\5DifferentNumbers.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\5DifferentNumbers\obj\Debug\5DifferentNumbers.pdb

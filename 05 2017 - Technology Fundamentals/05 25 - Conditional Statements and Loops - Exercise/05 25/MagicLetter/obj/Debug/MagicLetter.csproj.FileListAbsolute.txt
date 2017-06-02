@@ -1,0 +1,6 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\MagicLetter\bin\Debug\MagicLetter.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\MagicLetter\obj\Debug\MagicLetter.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\MagicLetter\bin\Debug\MagicLetter.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\MagicLetter\bin\Debug\MagicLetter.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\MagicLetter\obj\Debug\MagicLetter.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\MagicLetter\obj\Debug\MagicLetter.pdb

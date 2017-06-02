@@ -1,0 +1,6 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\DebitCardNumber\bin\Debug\DebitCardNumber.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\DebitCardNumber\bin\Debug\DebitCardNumber.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\DebitCardNumber\bin\Debug\DebitCardNumber.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\DebitCardNumber\obj\Debug\DebitCardNumber.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\DebitCardNumber\obj\Debug\DebitCardNumber.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\DebitCardNumber\obj\Debug\DebitCardNumber.pdb

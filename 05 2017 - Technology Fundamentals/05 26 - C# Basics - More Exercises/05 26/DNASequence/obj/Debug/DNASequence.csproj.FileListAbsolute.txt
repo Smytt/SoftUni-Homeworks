@@ -1,0 +1,6 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\DNASequence\bin\Debug\DNASequence.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\DNASequence\bin\Debug\DNASequence.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\DNASequence\bin\Debug\DNASequence.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\DNASequence\obj\Debug\DNASequence.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\DNASequence\obj\Debug\DNASequence.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\DNASequence\obj\Debug\DNASequence.pdb

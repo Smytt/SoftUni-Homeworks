@@ -1,0 +1,5 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\CharacterStats\bin\Debug\CharacterStats.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\CharacterStats\bin\Debug\CharacterStats.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\CharacterStats\bin\Debug\CharacterStats.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\CharacterStats\obj\Debug\CharacterStats.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\CharacterStats\obj\Debug\CharacterStats.pdb

@@ -1,0 +1,6 @@
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\wordPlural\bin\Debug\wordPlural.exe.config
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\wordPlural\bin\Debug\wordPlural.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\wordPlural\bin\Debug\wordPlural.pdb
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\wordPlural\obj\Debug\WordInPlural.csprojResolveAssemblyReference.cache
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\wordPlural\obj\Debug\wordPlural.exe
+C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\wordPlural\obj\Debug\wordPlural.pdb
