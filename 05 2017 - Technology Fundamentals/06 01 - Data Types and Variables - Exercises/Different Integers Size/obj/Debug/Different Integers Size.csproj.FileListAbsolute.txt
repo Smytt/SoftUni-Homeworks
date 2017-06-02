@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Different Integers Size\bin\Debug\Different Integers Size.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Different Integers Size\bin\Debug\Different Integers Size.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Different Integers Size\bin\Debug\Different Integers Size.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Different Integers Size\obj\Debug\Different Integers Size.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Different Integers Size\obj\Debug\Different Integers Size.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Different Integers Size\obj\Debug\Different Integers Size.csprojResolveAssemblyReference.cache

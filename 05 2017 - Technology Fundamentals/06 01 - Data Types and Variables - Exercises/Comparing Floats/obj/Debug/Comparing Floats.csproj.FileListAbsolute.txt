@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Comparing Floats\bin\Debug\Comparing Floats.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Comparing Floats\bin\Debug\Comparing Floats.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Comparing Floats\bin\Debug\Comparing Floats.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Comparing Floats\obj\Debug\Comparing Floats.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Comparing Floats\obj\Debug\Comparing Floats.pdb

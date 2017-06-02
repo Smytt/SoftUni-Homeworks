@@ -1,0 +1,6 @@
+D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\refactorSpecialNumbers\bin\Debug\refactorSpecialNumbers.exe.config
+D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\refactorSpecialNumbers\bin\Debug\refactorSpecialNumbers.exe
+D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\refactorSpecialNumbers\bin\Debug\refactorSpecialNumbers.pdb
+D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\refactorSpecialNumbers\obj\Debug\refactorSpecialNumbers.csprojResolveAssemblyReference.cache
+D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\refactorSpecialNumbers\obj\Debug\refactorSpecialNumbers.exe
+D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\refactorSpecialNumbers\obj\Debug\refactorSpecialNumbers.pdb

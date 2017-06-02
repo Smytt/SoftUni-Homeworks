@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Strings and Objects\bin\Debug\Strings and Objects.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Strings and Objects\bin\Debug\Strings and Objects.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Strings and Objects\bin\Debug\Strings and Objects.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Strings and Objects\obj\Debug\Strings and Objects.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Strings and Objects\obj\Debug\Strings and Objects.pdb

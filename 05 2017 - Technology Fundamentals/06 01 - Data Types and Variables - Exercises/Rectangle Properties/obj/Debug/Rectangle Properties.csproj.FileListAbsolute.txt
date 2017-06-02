@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\Rectangle Properties.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\Rectangle Properties.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Rectangle Properties\bin\Debug\Rectangle Properties.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\Rectangle Properties.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Rectangle Properties\obj\Debug\Rectangle Properties.pdb

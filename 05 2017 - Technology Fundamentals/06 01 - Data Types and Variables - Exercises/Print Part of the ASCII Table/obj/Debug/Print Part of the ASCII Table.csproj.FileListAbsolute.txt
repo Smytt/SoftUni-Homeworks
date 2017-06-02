@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Print Part of the ASCII Table\bin\Debug\Print Part of the ASCII Table.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Print Part of the ASCII Table\obj\Debug\Print Part of the ASCII Table.pdb

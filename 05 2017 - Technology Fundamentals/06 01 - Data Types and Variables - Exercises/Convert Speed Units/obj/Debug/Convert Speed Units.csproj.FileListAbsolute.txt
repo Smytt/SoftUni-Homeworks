@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\Convert Speed Units.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\Convert Speed Units.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Convert Speed Units\bin\Debug\Convert Speed Units.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\Convert Speed Units.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Convert Speed Units\obj\Debug\Convert Speed Units.pdb
