@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\05. Weather Forecast\bin\Debug\_05.Weather_Forecast.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\05. Weather Forecast\obj\Debug\_05.Weather_Forecast.pdb

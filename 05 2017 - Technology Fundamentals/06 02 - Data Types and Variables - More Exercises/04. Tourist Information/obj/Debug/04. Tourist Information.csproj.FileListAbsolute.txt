@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\04. Tourist Information\bin\Debug\_04.Tourist_Information.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\04. Tourist Information.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\_04.Tourist_Information.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\04. Tourist Information\obj\Debug\_04.Tourist_Information.pdb
