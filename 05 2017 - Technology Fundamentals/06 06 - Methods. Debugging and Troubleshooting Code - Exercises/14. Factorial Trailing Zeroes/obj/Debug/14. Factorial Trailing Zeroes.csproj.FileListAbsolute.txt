@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\bin\Debug\_14.Factorial_Trailing_Zeroes.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\14. Factorial Trailing Zeroes\obj\Debug\_14.Factorial_Trailing_Zeroes.pdb

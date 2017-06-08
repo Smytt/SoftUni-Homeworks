@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\_13.Factorial.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\_13.Factorial.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\bin\Debug\_13.Factorial.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\13. Factorial.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\_13.Factorial.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\13. Factorial\obj\Debug\_13.Factorial.pdb

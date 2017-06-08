@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\bin\Debug\_03.Printing_Triangle.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\03. Printing Triangle.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\03. Printing Triangle\obj\Debug\_03.Printing_Triangle.pdb

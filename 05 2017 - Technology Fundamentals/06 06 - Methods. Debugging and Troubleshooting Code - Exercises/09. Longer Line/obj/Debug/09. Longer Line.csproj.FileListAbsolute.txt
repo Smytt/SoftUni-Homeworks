@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\09. Longer Line\bin\Debug\_09.Longer_Line.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\09. Longer Line\obj\Debug\_09.Longer_Line.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\15. Substring\bin\Debug\_15.Substring.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\15. Substring\bin\Debug\_15.Substring.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\15. Substring\bin\Debug\_15.Substring.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\15. Substring\obj\Debug\15. Substring.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\15. Substring\obj\Debug\_15.Substring.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\15. Substring\obj\Debug\_15.Substring.pdb

@@ -18,6 +18,12 @@ namespace _15.Balanced_Brackets
             {
                 string currentLine = Console.ReadLine();
 
+                if ((currentLine == "(" && !isOpenNext) || (currentLine == ")" && isOpenNext))
+                {
+                    isBalanced = "UNBALANCED";
+                    break;
+                }
+
                 if (currentLine == "(" && isOpenNext)
                 {
                     isOpenNext = false;
@@ -25,11 +31,6 @@ namespace _15.Balanced_Brackets
                 if (currentLine == ")" && !isOpenNext)
                 {
                     isOpenNext = true;
-                }
-                if ((currentLine == "(" && !isOpenNext) || (currentLine == ")" && isOpenNext))
-                {
-                    isBalanced = "UNBALANCED";
-                    break;
                 }
             }
             if (!isOpenNext) isBalanced = "UNBALANCED";

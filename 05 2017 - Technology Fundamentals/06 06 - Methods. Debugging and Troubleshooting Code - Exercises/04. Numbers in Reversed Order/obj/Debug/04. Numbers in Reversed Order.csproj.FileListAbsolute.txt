@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\04. Numbers in Reversed Order\bin\Debug\_04.Numbers_in_Reversed_Order.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\04. Numbers in Reversed Order\obj\Debug\_04.Numbers_in_Reversed_Order.pdb

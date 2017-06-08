@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\18. Sequence of Commands\bin\Debug\_18.Sequence_of_Commands.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\18. Sequence of Commands\obj\Debug\18. Sequence of Commands.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\18. Sequence of Commands\bin\Debug\_18.Sequence_of_Commands.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\18. Sequence of Commands\bin\Debug\_18.Sequence_of_Commands.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\18. Sequence of Commands\obj\Debug\_18.Sequence_of_Commands.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\18. Sequence of Commands\obj\Debug\_18.Sequence_of_Commands.pdb

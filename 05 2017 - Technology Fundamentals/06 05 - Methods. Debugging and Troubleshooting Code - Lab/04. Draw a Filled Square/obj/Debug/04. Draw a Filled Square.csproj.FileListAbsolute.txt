@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\bin\Debug\_04.Draw_a_Filled_Square.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\04. Draw a Filled Square\obj\Debug\_04.Draw_a_Filled_Square.pdb

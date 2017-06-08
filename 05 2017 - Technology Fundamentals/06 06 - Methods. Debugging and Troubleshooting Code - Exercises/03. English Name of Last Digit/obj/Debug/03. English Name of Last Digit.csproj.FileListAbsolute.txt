@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\bin\Debug\_03.English_Name_of_Last_Digit.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\03. English Name of Last Digit\obj\Debug\_03.English_Name_of_Last_Digit.pdb
