@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\07. Inventory Matcher\bin\Debug\_07.Inventory_Matcher.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\07. Inventory Matcher.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\07. Inventory Matcher\obj\Debug\_07.Inventory_Matcher.pdb

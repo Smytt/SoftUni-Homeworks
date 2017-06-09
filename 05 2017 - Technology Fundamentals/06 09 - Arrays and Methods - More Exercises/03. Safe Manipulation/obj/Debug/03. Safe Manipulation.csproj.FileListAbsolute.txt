@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\03. Safe Manipulation\bin\Debug\_03.Safe_Manipulation.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\03. Safe Manipulation.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\03. Safe Manipulation\obj\Debug\_03.Safe_Manipulation.pdb

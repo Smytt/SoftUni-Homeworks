@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\06. Heists\bin\Debug\_06.Heists.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\06. Heists\bin\Debug\_06.Heists.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\06. Heists\bin\Debug\_06.Heists.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\06. Heists\obj\Debug\06. Heists.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\06. Heists\obj\Debug\_06.Heists.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\06. Heists\obj\Debug\_06.Heists.pdb
