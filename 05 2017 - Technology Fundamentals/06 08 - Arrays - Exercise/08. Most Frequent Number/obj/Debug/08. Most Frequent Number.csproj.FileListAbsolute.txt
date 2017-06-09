@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\08. Most Frequent Number\bin\Debug\_08.Most_Frequent_Number.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\08. Most Frequent Number\obj\Debug\_08.Most_Frequent_Number.pdb

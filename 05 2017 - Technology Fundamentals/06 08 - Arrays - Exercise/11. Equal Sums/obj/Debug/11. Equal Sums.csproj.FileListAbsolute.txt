@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\11. Equal Sums\bin\Debug\_11.Equal_Sums.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\11. Equal Sums\bin\Debug\_11.Equal_Sums.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\11. Equal Sums\obj\Debug\_11.Equal_Sums.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\11. Equal Sums\obj\Debug\_11.Equal_Sums.pdb

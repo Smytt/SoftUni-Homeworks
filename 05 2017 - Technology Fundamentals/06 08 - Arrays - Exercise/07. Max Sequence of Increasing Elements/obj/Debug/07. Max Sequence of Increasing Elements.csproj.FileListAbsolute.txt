@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\07. Max Sequence of Increasing Elements\bin\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\07. Max Sequence of Increasing Elements\obj\Debug\_07.Max_Sequence_of_Increasing_Elements.pdb

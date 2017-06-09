@@ -1,0 +1,6 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\05. Rounding Numbers\bin\Debug\_05.Rounding_Numbers.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\05. Rounding Numbers\obj\Debug\05. Rounding Numbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\05. Rounding Numbers\obj\Debug\_05.Rounding_Numbers.pdb

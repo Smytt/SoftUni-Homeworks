@@ -1,0 +1,5 @@
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe.config
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\10. Pairs by Difference\bin\Debug\_10.Pairs_by_Difference.pdb
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.exe
+D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\10. Pairs by Difference\obj\Debug\_10.Pairs_by_Difference.pdb
