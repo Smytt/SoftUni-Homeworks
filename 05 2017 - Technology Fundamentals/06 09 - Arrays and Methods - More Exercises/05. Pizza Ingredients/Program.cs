@@ -22,6 +22,7 @@ namespace _05.Pizza_Ingredients
                     count++;
                     Console.WriteLine($"Adding {ingredients[i]}.");
                     addedIngredients.Add(ingredients[i]);
+                    if (count == 10) break;
                 }
             }
 
