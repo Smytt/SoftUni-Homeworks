@@ -10,7 +10,13 @@ namespace arrays
     {
         static void Main(string[] args)
         {
-            Console.WriteLine(char.IsUpper('F'));
+            List<int> list = new List<int>();
+            for (int i = 11; i < 100; i++)
+            {
+                list.Add(i);
+            }
+            Console.WriteLine("Sfsdf");
+            Console.WriteLine(list.IndexOf(2));
         }
     }
 }
