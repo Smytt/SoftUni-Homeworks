@@ -21,9 +21,9 @@ namespace _11.Dragon_Army
                 var armor = 0;
                 if (command[2] == "null") damage = 45;
                 else damage = int.Parse(command[2]);
-                if (command[3] == "null") health = 45;
+                if (command[3] == "null") health = 250;
                 else health = int.Parse(command[3]);
-                if (command[4] == "null") armor = 45;
+                if (command[4] == "null") armor = 10;
                 else armor = int.Parse(command[4]);
                 var type = command[0];
                 var name = command[1];
