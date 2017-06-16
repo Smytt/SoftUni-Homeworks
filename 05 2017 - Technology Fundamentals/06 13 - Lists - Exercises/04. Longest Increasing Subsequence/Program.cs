@@ -16,56 +16,34 @@ namespace _04.Longest_Increasing_Subsequence
                 .Select(int.Parse)
                 .ToList();
 
-            List<int> maxSeqencesforIndex = new List<int>();
-            List<int> prevIndex = new List<int>();
-
-            maxSeqencesforIndex.Add(1);
-            prevIndex.Add(0);
+            var lisDict = new Dictionary<int, List<int>>();
+            lisDict[0] = new List<int>() { numbers[0] };
 
             for (int i = 1; i < numbers.Count; i++)
             {
+                int maxLeft; int maxLeftIndex = -1;
 
-                var maxLeft = numbers.Take(i+1).Min();
-                if (maxLeft == numbers[i])
+                var MaxLeftObj = numbers.Take(i)
+                    .Select((v, index) => new { v, index })
+                    .Where(x => x.v < numbers[i]).ToList();
+
+                if (MaxLeftObj.Count > 0)
                 {
-                    maxSeqencesforIndex.Add(1);
-                    prevIndex.Add(0);
-                    continue;
+                    maxLeft = MaxLeftObj.Max(x => x.v);
+                    maxLeftIndex = MaxLeftObj.Max(x => x.index);
                 }
-                var maxLeftIndex = 0;
-                for (int j = 0; j <= i; j++)
+
+                if (lisDict.ContainsKey(maxLeftIndex))
                 {
-                    if (numbers[j] > maxLeft && numbers[j]<numbers[i] )
-                    {
-                        maxLeft = numbers[j];
-                        maxLeftIndex = j;
-                    }
+                    lisDict[i] = lisDict[maxLeftIndex].Concat(new List<int>() { numbers[i] }).ToList();
                 }
-                maxSeqencesforIndex.Add(maxSeqencesforIndex[maxLeftIndex] + 1);
-                prevIndex.Add(maxLeftIndex);
+                else
+                    lisDict[i] = new List<int>() { numbers[i] };
+
             }
 
-            var maxSequence = 0;
-            var maxSequenceIndex = 0;
-            for (int i = 0; i < maxSeqencesforIndex.Count; i++)
-            {
-                if(maxSeqencesforIndex[i] > maxSequence)
-                {
-                    maxSequence = maxSeqencesforIndex[i];
-                    maxSequenceIndex = i;
-                }
-            }
-
-            List<int> lis = new List<int>();
-
-            var nextIndexToAddToLis = maxSequenceIndex;
-            for (int i = 0; i < maxSequence; i++)
-            {
-                lis.Insert(0, numbers[nextIndexToAddToLis]);
-                nextIndexToAddToLis = prevIndex[nextIndexToAddToLis];
-            }
-
-            Console.WriteLine(String.Join(" ", lis));
+            var maxSequence = lisDict.Select((k, v) => v).Max();
+            Console.WriteLine(maxSequence);
         }
     }
 }
