@@ -10,14 +10,13 @@ namespace arrays
     {
         static void Main(string[] args)
         {
-            List<int> numbers = new List<int>() { 11, 2, 12, 2, 4, 4, 6, 2, 7 };
+            Console.WriteLine("test");
+            int result = 0;
+            Console.WriteLine(result);
 
-            //int test = list.IndexOf(list.Last(x => x == 2));
-            int test = numbers.Take(5)
-                    .Select((v, index) => new { v, index })
-                    .Where(x => x.v < numbers[5]).Max(x => x.v);
+            if (int.TryParse("t", out result)) { }
 
-            Console.WriteLine(test);
+            Console.WriteLine(result);
         }
     }
 }
