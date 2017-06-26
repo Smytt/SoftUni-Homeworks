@@ -1,21 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Globalization;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace arrays
+namespace _01.Day_of_Week
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] num = { 2147483647, 5 };
-            long big = 2147483648;
+            var date = DateTime.ParseExact(Console.ReadLine(), "d-M-yyyy", CultureInfo.InvariantCulture);
 
-            if (big < num.Sum(x => (long)x)) Console.WriteLine("YES");
-
+            Console.WriteLine(date.DayOfWeek);
         }
     }
-    
 }

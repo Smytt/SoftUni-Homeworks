@@ -4,18 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace arrays
+namespace _01.Reverse_String
 {
     class Program
     {
         static void Main(string[] args)
         {
-            int[] num = { 2147483647, 5 };
-            long big = 2147483648;
+            var text = Console.ReadLine();
 
-            if (big < num.Sum(x => (long)x)) Console.WriteLine("YES");
-
+            Console.WriteLine(new String(text.ToCharArray().Reverse().ToArray()));
         }
     }
-    
 }
