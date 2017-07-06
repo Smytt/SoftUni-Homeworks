@@ -10,10 +10,14 @@ namespace arrays
     {
         static void Main(string[] args)
         {
-            int[] num = { 2147483647, 5 };
-            long big = 2147483648;
+            var text = "hello";
 
-            if (big < num.Sum(x => (long)x)) Console.WriteLine("YES");
+            var arr = text.ToCharArray();
+
+            var test1 = new string(arr);
+            var test2 = string.Join("", arr);
+
+            Console.WriteLine(test1 + " " + test2);
 
         }
     }
