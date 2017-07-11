@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Thea the Photographer\bin\Debug\Thea the Photographer.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Thea the Photographer\bin\Debug\Thea the Photographer.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Thea the Photographer\bin\Debug\Thea the Photographer.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Thea the Photographer\obj\Debug\Thea the Photographer.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Thea the Photographer\obj\Debug\Thea the Photographer.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Thea the Photographer\obj\Debug\Thea the Photographer.pdb

@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\02. Rotate and Sum\bin\Debug\_02.Rotate_and_Sum.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\02. Rotate and Sum\obj\Debug\_02.Rotate_and_Sum.pdb

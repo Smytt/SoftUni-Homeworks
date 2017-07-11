@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\bin\Debug\_06.Prime_Checker.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\06. Prime Checker\obj\Debug\_06.Prime_Checker.pdb

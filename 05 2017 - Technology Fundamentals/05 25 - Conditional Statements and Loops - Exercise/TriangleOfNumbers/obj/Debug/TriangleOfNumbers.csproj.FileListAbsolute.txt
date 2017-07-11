@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\TriangleOfNumbers\bin\Debug\TriangleOfNumbers.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\TriangleOfNumbers\obj\Debug\TriangleOfNumbers.pdb

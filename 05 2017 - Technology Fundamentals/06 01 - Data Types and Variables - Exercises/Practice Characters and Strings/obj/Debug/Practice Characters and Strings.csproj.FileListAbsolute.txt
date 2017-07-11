@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Characters and Strings\bin\Debug\Practice Characters and Strings.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Characters and Strings\bin\Debug\Practice Characters and Strings.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Characters and Strings\bin\Debug\Practice Characters and Strings.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Characters and Strings\obj\Debug\Practice Characters and Strings.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Characters and Strings\obj\Debug\Practice Characters and Strings.pdb

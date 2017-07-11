@@ -1,1 +1,0 @@
-D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\greeting\bin\Debug\greeting.exe.config

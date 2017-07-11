@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\10. Price Change Alert\bin\Debug\_10.Price_Change_Alert.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\10. Price Change Alert\obj\Debug\10. Price Change Alert.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\10. Price Change Alert\obj\Debug\_10.Price_Change_Alert.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\10. Price Change Alert\obj\Debug\_10.Price_Change_Alert.pdb

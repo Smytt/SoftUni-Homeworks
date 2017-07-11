@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Floating Point Numbers\bin\Debug\Practice Floating Point Numbers.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Practice Floating Point Numbers\obj\Debug\Practice Floating Point Numbers.pdb

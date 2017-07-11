@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Employee Data\bin\Debug\Employee Data.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Employee Data\bin\Debug\Employee Data.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Employee Data\bin\Debug\Employee Data.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Employee Data\obj\Debug\Employee Data.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Employee Data\obj\Debug\Employee Data.pdb

@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\bin\Debug\_11.Geometry_Calculator.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\11. Geometry Calculator.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\11. Geometry Calculator\obj\Debug\_11.Geometry_Calculator.pdb

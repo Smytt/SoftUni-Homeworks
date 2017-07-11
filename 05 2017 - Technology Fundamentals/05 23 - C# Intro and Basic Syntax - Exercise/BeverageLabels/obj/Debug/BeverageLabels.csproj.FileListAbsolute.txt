@@ -1,5 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\BeverageLabels\bin\Debug\BeverageLabels.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\BeverageLabels\bin\Debug\BeverageLabels.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\BeverageLabels\bin\Debug\BeverageLabels.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\BeverageLabels\obj\Debug\BeverageLabels.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 23\BeverageLabels\obj\Debug\BeverageLabels.pdb

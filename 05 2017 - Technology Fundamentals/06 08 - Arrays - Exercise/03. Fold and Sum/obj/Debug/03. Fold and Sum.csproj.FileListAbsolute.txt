@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\03. Fold and Sum\bin\Debug\_03.Fold_and_Sum.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\03. Fold and Sum\obj\Debug\03. Fold and Sum.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\03. Fold and Sum\obj\Debug\_03.Fold_and_Sum.pdb

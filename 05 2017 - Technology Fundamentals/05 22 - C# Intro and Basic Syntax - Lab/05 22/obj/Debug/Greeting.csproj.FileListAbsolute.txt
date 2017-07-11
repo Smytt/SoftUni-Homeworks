@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 22\bin\Debug\05 22.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 22\bin\Debug\05 22.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 22\bin\Debug\05 22.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 22\obj\Debug\Greeting.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 22\obj\Debug\05 22.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 22\obj\Debug\05 22.pdb

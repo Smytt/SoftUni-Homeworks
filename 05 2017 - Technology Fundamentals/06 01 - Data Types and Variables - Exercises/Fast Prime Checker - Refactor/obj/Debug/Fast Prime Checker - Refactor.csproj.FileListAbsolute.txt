@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Fast Prime Checker - Refactor\bin\Debug\Fast Prime Checker - Refactor.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Fast Prime Checker - Refactor\obj\Debug\Fast Prime Checker - Refactor.pdb

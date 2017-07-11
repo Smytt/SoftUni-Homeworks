@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\03. Last K Numbers Sums\bin\Debug\_03.Last_K_Numbers_Sums.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\03. Last K Numbers Sums\obj\Debug\_03.Last_K_Numbers_Sums.pdb

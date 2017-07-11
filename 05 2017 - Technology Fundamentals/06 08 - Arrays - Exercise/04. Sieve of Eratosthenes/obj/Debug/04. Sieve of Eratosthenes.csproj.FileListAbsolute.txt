@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\04. Sieve of Eratosthenes\bin\Debug\_04.Sieve_of_Eratosthenes.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\04. Sieve of Eratosthenes\obj\Debug\04. Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\04. Sieve of Eratosthenes\obj\Debug\_04.Sieve_of_Eratosthenes.pdb

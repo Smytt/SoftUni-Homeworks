@@ -1,6 +1,0 @@
-D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\tripplesOfLetters\bin\Debug\tripplesOfLetters.exe.config
-D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\tripplesOfLetters\bin\Debug\tripplesOfLetters.exe
-D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\tripplesOfLetters\bin\Debug\tripplesOfLetters.pdb
-D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\tripplesOfLetters\obj\Debug\tripplesOfLetters.csprojResolveAssemblyReference.cache
-D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\tripplesOfLetters\obj\Debug\tripplesOfLetters.exe
-D:\Programming Fundamentals May 2017\05 2017 - Technology Fundamentals\05 31 - Data Types and Variables - Lab\05 31\tripplesOfLetters\obj\Debug\tripplesOfLetters.pdb

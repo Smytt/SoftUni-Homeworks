@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\15. Balanced Brackets\bin\Debug\_15.Balanced_Brackets.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\15. Balanced Brackets.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\15. Balanced Brackets\obj\Debug\_15.Balanced_Brackets.pdb

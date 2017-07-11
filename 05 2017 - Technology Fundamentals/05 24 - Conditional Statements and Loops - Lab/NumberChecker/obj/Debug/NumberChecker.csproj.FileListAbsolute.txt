@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\NumberChecker\bin\Debug\NumberChecker.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\NumberChecker\bin\Debug\NumberChecker.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\NumberChecker\bin\Debug\NumberChecker.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\NumberChecker\obj\Debug\NumberChecker.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\NumberChecker\obj\Debug\NumberChecker.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\NumberChecker\obj\Debug\NumberChecker.pdb

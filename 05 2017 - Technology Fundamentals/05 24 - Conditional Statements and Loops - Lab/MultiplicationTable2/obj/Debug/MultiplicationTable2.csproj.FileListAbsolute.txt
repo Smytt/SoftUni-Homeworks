@@ -1,5 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\MultiplicationTable2\bin\Debug\MultiplicationTable2.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\MultiplicationTable2\bin\Debug\MultiplicationTable2.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\MultiplicationTable2\bin\Debug\MultiplicationTable2.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\MultiplicationTable2\obj\Debug\MultiplicationTable2.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\MultiplicationTable2\obj\Debug\MultiplicationTable2.pdb

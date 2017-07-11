@@ -1,5 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CaloriesCounter\bin\Debug\CaloriesCounter.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CaloriesCounter\bin\Debug\CaloriesCounter.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CaloriesCounter\bin\Debug\CaloriesCounter.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CaloriesCounter\obj\Debug\CaloriesCounter.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CaloriesCounter\obj\Debug\CaloriesCounter.pdb

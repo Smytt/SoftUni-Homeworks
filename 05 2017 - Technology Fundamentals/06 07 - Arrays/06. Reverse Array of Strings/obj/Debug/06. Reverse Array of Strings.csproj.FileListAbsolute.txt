@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\06. Reverse Array of Strings\bin\Debug\_06.Reverse_Array_of_Strings.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\06. Reverse Array of Strings\obj\Debug\_06.Reverse_Array_of_Strings.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\06. Reverse Array of Strings\obj\Debug\_06.Reverse_Array_of_Strings.pdb

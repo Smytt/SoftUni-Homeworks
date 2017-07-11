@@ -1,3 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\Number Checker\bin\Debug\Number Checker.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\Number Checker\obj\Debug\Number Checker.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\Number Checker\obj\Debug\Number Checker.pdb

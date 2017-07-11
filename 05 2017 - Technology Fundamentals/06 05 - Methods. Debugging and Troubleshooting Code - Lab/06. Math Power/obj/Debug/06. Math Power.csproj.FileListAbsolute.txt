@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\06. Math Power\bin\Debug\_06.Math_Power.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\06. Math Power\bin\Debug\_06.Math_Power.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\06. Math Power\bin\Debug\_06.Math_Power.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\06. Math Power\obj\Debug\_06.Math_Power.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 05 - Methods. Debugging and Troubleshooting Code - Lab\06. Math Power\obj\Debug\_06.Math_Power.pdb

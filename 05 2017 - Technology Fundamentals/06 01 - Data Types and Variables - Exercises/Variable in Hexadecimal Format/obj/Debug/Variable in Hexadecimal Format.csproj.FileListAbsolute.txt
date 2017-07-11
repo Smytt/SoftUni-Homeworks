@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Variable in Hexadecimal Format\bin\Debug\Variable in Hexadecimal Format.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Variable in Hexadecimal Format\obj\Debug\Variable in Hexadecimal Format.pdb

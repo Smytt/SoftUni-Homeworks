@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\09. Index of Letters\bin\Debug\_09.Index_of_Letters.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\09. Index of Letters\bin\Debug\_09.Index_of_Letters.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\09. Index of Letters\obj\Debug\09. Index of Letters.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\09. Index of Letters\obj\Debug\_09.Index_of_Letters.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\09. Index of Letters\obj\Debug\_09.Index_of_Letters.pdb

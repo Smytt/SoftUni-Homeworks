@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\Hotel\bin\Debug\Hotel.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\Hotel\bin\Debug\Hotel.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\Hotel\bin\Debug\Hotel.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\Hotel\obj\Debug\Hotel.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\Hotel\obj\Debug\Hotel.pdb

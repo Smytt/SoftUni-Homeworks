@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\IntervalOfNumbers\bin\Debug\IntervalOfNumbers.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\IntervalOfNumbers\obj\Debug\IntervalOfNumbers.pdb

@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\NeighbourWars\bin\Debug\NeighbourWars.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\NeighbourWars\bin\Debug\NeighbourWars.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\NeighbourWars\bin\Debug\NeighbourWars.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\NeighbourWars\obj\Debug\NeighbourWars.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\NeighbourWars\obj\Debug\NeighbourWars.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\NeighbourWars\obj\Debug\NeighbourWars.pdb

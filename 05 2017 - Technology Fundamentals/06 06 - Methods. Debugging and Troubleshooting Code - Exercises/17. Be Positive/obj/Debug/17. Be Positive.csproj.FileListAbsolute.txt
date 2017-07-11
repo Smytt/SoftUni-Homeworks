@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\bin\Debug\_17.Be_Positive.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\bin\Debug\_17.Be_Positive.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\bin\Debug\_17.Be_Positive.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\obj\Debug\17. Be Positive.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\obj\Debug\_17.Be_Positive.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 06 - Methods. Debugging and Troubleshooting Code - Exercises\17. Be Positive\obj\Debug\_17.Be_Positive.pdb

@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\TrainingHall\bin\Debug\TrainingHall.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\TrainingHall\bin\Debug\TrainingHall.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\TrainingHall\bin\Debug\TrainingHall.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\TrainingHall\obj\Debug\TrainingHall.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\TrainingHall\obj\Debug\TrainingHall.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\TrainingHall\obj\Debug\TrainingHall.pdb

@@ -1,5 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\OddNumber\bin\Debug\OddNumber.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\OddNumber\bin\Debug\OddNumber.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\OddNumber\bin\Debug\OddNumber.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\OddNumber\obj\Debug\OddNumber.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 22\05 24\OddNumber\obj\Debug\OddNumber.pdb

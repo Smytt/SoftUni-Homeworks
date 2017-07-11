@@ -1,6 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\SMS-Typing\bin\Debug\SMS-Typing.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\SMS-Typing\bin\Debug\SMS-Typing.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\SMS-Typing\bin\Debug\SMS-Typing.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\SMS-Typing\obj\Debug\SMS-Typing.csprojResolveAssemblyReference.cache
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\SMS-Typing\obj\Debug\SMS-Typing.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 26\05 26\SMS-Typing\obj\Debug\SMS-Typing.pdb

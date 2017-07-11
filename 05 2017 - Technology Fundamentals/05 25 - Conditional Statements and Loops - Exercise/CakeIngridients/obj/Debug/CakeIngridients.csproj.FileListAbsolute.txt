@@ -1,5 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CakeIngridients\bin\Debug\CakeIngridients.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CakeIngridients\bin\Debug\CakeIngridients.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CakeIngridients\bin\Debug\CakeIngridients.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CakeIngridients\obj\Debug\CakeIngridients.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CakeIngridients\obj\Debug\CakeIngridients.pdb

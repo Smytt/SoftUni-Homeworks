@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\02. Manipulate Array\bin\Debug\_02.Manipulate_Array.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\02. Manipulate Array.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\02. Manipulate Array\obj\Debug\_02.Manipulate_Array.pdb

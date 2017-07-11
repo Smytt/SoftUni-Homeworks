@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\01. Largest Common End\bin\Debug\_01.Largest_Common_End.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\01. Largest Common End\bin\Debug\_01.Largest_Common_End.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\01. Largest Common End\bin\Debug\_01.Largest_Common_End.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\01. Largest Common End\obj\Debug\01. Largest Common End.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\01. Largest Common End\obj\Debug\_01.Largest_Common_End.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 08 - Arrays - Exercise\01. Largest Common End\obj\Debug\_01.Largest_Common_End.pdb

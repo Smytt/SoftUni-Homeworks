@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\09. Jump Around\bin\Debug\_09.Jump_Around.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\09. Jump Around\bin\Debug\_09.Jump_Around.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\09. Jump Around\bin\Debug\_09.Jump_Around.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\09. Jump Around\obj\Debug\09. Jump Around.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\09. Jump Around\obj\Debug\_09.Jump_Around.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 09 - Arrays and Methods - More Exercises\09. Jump Around\obj\Debug\_09.Jump_Around.pdb

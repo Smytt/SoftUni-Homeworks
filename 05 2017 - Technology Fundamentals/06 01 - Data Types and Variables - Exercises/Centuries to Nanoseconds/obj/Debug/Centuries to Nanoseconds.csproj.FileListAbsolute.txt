@@ -1,1 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\05 32 - Data Types and Variables - Exercises\Centuries to Nanoseconds\bin\Debug\Centuries to Nanoseconds.exe.config

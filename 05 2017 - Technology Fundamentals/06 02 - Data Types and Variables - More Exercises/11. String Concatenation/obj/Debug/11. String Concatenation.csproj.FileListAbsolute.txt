@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\11. String Concatenation\bin\Debug\_11.String_Concatenation.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\11. String Concatenation\bin\Debug\_11.String_Concatenation.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\11. String Concatenation\obj\Debug\11. String Concatenation.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\11. String Concatenation\obj\Debug\_11.String_Concatenation.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\11. String Concatenation\obj\Debug\_11.String_Concatenation.pdb

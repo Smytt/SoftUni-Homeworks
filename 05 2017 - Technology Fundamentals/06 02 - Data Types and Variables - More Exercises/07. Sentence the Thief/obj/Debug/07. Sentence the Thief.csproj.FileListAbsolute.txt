@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\07. Sentence the Thief\bin\Debug\_07.Sentence_the_Thief.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\07. Sentence the Thief\obj\Debug\_07.Sentence_the_Thief.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\07. Sentence the Thief\obj\Debug\_07.Sentence_the_Thief.pdb

@@ -1,5 +1,0 @@
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CountTheIntegers\bin\Debug\CountTheIntegers.exe.config
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CountTheIntegers\bin\Debug\CountTheIntegers.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CountTheIntegers\bin\Debug\CountTheIntegers.pdb
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CountTheIntegers\obj\Debug\CountTheIntegers.exe
-C:\Users\SoftUni\Desktop\Programming Fundamentals May 2017\05 25\05 25\CountTheIntegers\obj\Debug\CountTheIntegers.pdb

@@ -1,5 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\09. Extract Middle Elements\bin\Debug\_09.Extract_Middle_Elements.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 07 - Arrays\09. Extract Middle Elements\obj\Debug\_09.Extract_Middle_Elements.pdb

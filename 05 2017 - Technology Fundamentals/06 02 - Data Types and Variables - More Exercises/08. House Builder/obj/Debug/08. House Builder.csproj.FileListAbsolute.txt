@@ -1,6 +1,0 @@
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\08. House Builder\bin\Debug\_08.House_Builder.exe.config
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\08. House Builder\obj\Debug\08. House Builder.csprojResolveAssemblyReference.cache
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\08. House Builder\bin\Debug\_08.House_Builder.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\08. House Builder\bin\Debug\_08.House_Builder.pdb
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\08. House Builder\obj\Debug\_08.House_Builder.exe
-D:\SoftUni\05 2017 - Technology Fundamentals\06 02 - Data Types and Variables - More Exercises\08. House Builder\obj\Debug\_08.House_Builder.pdb
